@@ -6,7 +6,8 @@ and then prints the multiplication table of that number using a for loop.
 The table should display multiplication from 1 to 10.
 */
 
-public class MultiplicationTable {
+public class MultiplicationTable 
+{
 	
     public static void main(String[] args) 
     {
